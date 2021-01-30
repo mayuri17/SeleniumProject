@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-24T06:28:23Z" name="Default suite" finished-at="2021-01-24T06:28:23Z" duration-ms="123">
+    <groups>
+    </groups>
+    <test started-at="2021-01-24T06:28:23Z" name="Default test" finished-at="2021-01-24T06:28:23Z" duration-ms="123">
+      <class name="com.test.TestNG">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="setUp" finished-at="2021-01-24T06:28:23Z" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="login" finished-at="2021-01-24T06:28:23Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="launchBrowser" finished-at="2021-01-24T06:28:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="enterURL" finished-at="2021-01-24T06:28:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="googleTestTitle()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="googleTestTitle" finished-at="2021-01-24T06:28:23Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTestTitle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="logout" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="enterURL" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="googleTestTitle()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="googleTestTitle" finished-at="2021-01-24T06:28:23Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTestTitle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="logout" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="googleTestTitle()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="googleTestTitle" finished-at="2021-01-24T06:28:23Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTestTitle -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="enterURL" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="enterURL" finished-at="2021-01-24T06:28:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="logout" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="googleTestTitle()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="googleTestTitle" finished-at="2021-01-24T06:28:23Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTestTitle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="logout" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="enterURL" finished-at="2021-01-24T06:28:23Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="googleTestTitle()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="googleTestTitle" finished-at="2021-01-24T06:28:23Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTestTitle -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="enterURL" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="googleTestTitle()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="googleTestTitle" finished-at="2021-01-24T06:28:23Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTestTitle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="logout" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="googleTestTitle()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="googleTestTitle" finished-at="2021-01-24T06:28:23Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTestTitle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="logout" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="enterURL" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="logout" finished-at="2021-01-24T06:28:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="enterURL" finished-at="2021-01-24T06:28:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="googleTestTitle()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="googleTestTitle" finished-at="2021-01-24T06:28:23Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTestTitle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="logout" finished-at="2021-01-24T06:28:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="enterURL" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="googleTestTitle()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="googleTestTitle" finished-at="2021-01-24T06:28:23Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTestTitle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="logout" finished-at="2021-01-24T06:28:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="enterURL" finished-at="2021-01-24T06:28:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="googleTestTitle()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="googleTestTitle" finished-at="2021-01-24T06:28:23Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTestTitle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="logout" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="closeBrowser" finished-at="2021-01-24T06:28:23Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="deleteAllCookies()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="deleteAllCookies" finished-at="2021-01-24T06:28:23Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+        <test-method is-config="true" signature="generateTestReport()[pri:0, instance:com.test.TestNG@66d18979]" started-at="2021-01-24T06:28:23Z" name="generateTestReport" finished-at="2021-01-24T06:28:23Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestReport -->
+      </class> <!-- com.test.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
